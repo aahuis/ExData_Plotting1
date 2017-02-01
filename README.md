@@ -1,3 +1,11 @@
+## Short description
+This repository contains the R script files, respectively their .png outputs as requested by the assignment.
+
+Please note that my computer's default language is German, this is why in all plots the days have German names:
+Do = Donnerstag (Thursday)
+Fr = Freitag (Friday)
+Sa = Samstag (Saturday)
+
 ## Introduction
 
 This assignment uses data from
